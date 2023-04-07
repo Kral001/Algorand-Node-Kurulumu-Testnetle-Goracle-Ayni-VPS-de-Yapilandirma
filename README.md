@@ -17,7 +17,7 @@ Aşağıdaki işlemler yalnızca Goracle Node'u kurmuş olan ve API'yi purestake
 
 1.BÖLÜM: ALGORAND DÜĞÜMÜNÜ KURUN VE AĞI TESTNET OLARAK DEĞİŞTİRİN
 
-Bunun için ayrı bir vps kullanmıyorsunuz. Algorand düğümü aynı vps içinde kurulacaktır.
+Bunun için ayrı bir VPS kullanmıyorsunuz. Algorand düğümü aynı vps içinde kurulacaktır.
 
 1.1.Algorand ve diğer araçları indirin. Bu komutları birer birer çalıştırın:
 
