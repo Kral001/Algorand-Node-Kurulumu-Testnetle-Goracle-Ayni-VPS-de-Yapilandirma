@@ -105,7 +105,7 @@ vim algod.token
 
 - Ekranda gördüğünüz bu jeton kodunu kopyalayın ve saklayın.
 
-- Vim'i kapatın ve ana Dizine geri dönmek için cd yazın.
+- Çıkmak için CTRL+C ve ardından :qa yazın ve ENTER'a basın. Ana dizine geri dönmek için cd yazın.
 
 1.4. Düğümünüzü hızlı bir şekilde senkronize etmek için aşağıdaki komutu kullanabilirsiniz:
 
