@@ -1,4 +1,4 @@
-# Algorand-Node-Kurulumu-Testnetle-Goracle-Ayni-VPS-de-Yapilandirma
+<h1 align="center"> Algorand-Node-Kurulumu-Testnetle-Goracle-Ayni-VPS-de-Yapilandirma </h1>
 
 - Öncelikle bir Goracle Node'u kurmak istiyorsanız lütfen aşağıdaki rehbere gidin ve tüm işlemleri eksiksiz yaparak node'unuzu kurun.
 
