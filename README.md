@@ -1,0 +1,1 @@
+# Algorand-Node-Kurulumu-Testnetle-Goracle-Ayni-VPS-de-Yapilandirma
