@@ -12,8 +12,8 @@ Aşağıdaki işlemler yalnızca Goracle Node'u kurmuş olan ve API'yi purestake
 
 - Veya Bu Hata: 
 
-2023-04-06T03:17:00.573Z ERROR URLTokenBaseHTTPError: Network request error. Received status 404 (Not Found): failed to retrieve information from the ledger
-2023-04-06T03:17:26.123Z ERROR URLTokenBaseHTTPError: Network request error. Received status 404 (Not Found): failed to retrieve information from the ledger
+![106](https://user-images.githubusercontent.com/98269269/230567383-ca31791a-e56b-4807-b606-5fd8849c1df0.png)
+
 
 1.BÖLÜM: ALGORAND DÜĞÜMÜNÜ KURUN VE AĞI TESTNET OLARAK DEĞİŞTİRİN
 
