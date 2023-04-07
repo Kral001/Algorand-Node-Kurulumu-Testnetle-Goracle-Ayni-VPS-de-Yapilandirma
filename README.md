@@ -134,6 +134,40 @@ Genesis hash: SGO1GKSzyE7IEPItTxCByw9x8FmnrCDexi9/cOUJOiI=
 
 - Node'umuzun eşitlenmesi için yaklaşık 5 dakika civarı beklememiz gerekebilir.
 
+2.BÖLÜM: GORACLE NODE'UMUZU YAPILANDIRIYORUZ
+
+2.1.Goracle'ı Düzenliyoruz
+
+```
+goracle docker-stop
+```
+
+```
+nano ~/.goracle
+```
+
+![104](https://user-images.githubusercontent.com/98269269/230564145-18d4644f-40ba-4863-8664-4d716752248f.png)
+
+- Burada yer alan "authHeader": "x-api-key" öğesini kaldırın ve aşağıdaki yerleri aşağıda yazdığı şekilde değiştirin.
+
+"server": "http://127.0.0.1:8080",
+
+"token": "1.3.ADIMDA YER ALAN TOKEN KODUNU BURAYA YAPIŞTIRIN",
+
+Bu değişiklikleri yaptıktan sonra Ctrl+x'e, ardından Y'ye ve ardından Enter'a basın.
+
+- Goracle'ı çalıştırın:
+
+```
+goracle docker-start --background
+```
+
+- Loglarınızı Kontrol Edin:
+
+```
+docker logs -f goracle-nr
+```
+
 
 
 
