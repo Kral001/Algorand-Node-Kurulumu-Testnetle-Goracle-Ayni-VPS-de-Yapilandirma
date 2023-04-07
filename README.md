@@ -124,7 +124,7 @@ goal node status -d /var/lib/algorand/
 ![105](https://user-images.githubusercontent.com/98269269/230565288-3f0e79db-ff4e-44bc-8a7a-19571b4c28da.png)
 
 
-- Sync Time: 0.0s olduğunda node'unuz eşleşmiş demektir. Node'umuzun eşlenmesi için yaklaşık 5 dakika civarı beklememiz gerekebilir.
+- Sync Time: 0.0s olduğunda node'unuz eşleşmiş demektir. Node'umuzun eşleşmesi için yaklaşık 5 dakika civarı beklememiz gerekebilir.
 
 2.BÖLÜM: GORACLE NODE'UMUZU YAPILANDIRIYORUZ
 
