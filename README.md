@@ -121,16 +121,8 @@ goal node status -d /var/lib/algorand/
 
 - Ekranda böyle bir çıktı göreceksiniz:
 
-Last committed block: 28964772
-Time since last block: 2.8s
-Sync Time: 0.0s
-Last consensus protocol: https://github.com/algorandfoundation/specs/tree/44fa607d6051730f5264526bf3c108d51f0eadb6
-Next consensus protocol: https://github.com/algorandfoundation/specs/tree/44fa607d6051730f5264526bf3c108d51f0eadb6
-Round for next consensus protocol: 28964773
-Next consensus protocol supported: true
-Last Catchpoint:
-Genesis ID: testnet-v1.0
-Genesis hash: SGO1GKSzyE7IEPItTxCByw9x8FmnrCDexi9/cOUJOiI=
+![105](https://user-images.githubusercontent.com/98269269/230565288-3f0e79db-ff4e-44bc-8a7a-19571b4c28da.png)
+
 
 - Node'umuzun eşitlenmesi için yaklaşık 5 dakika civarı beklememiz gerekebilir.
 
