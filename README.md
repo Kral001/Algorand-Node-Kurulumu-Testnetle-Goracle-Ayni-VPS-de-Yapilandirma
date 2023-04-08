@@ -144,7 +144,7 @@ nano ~/.goracle
 
 "server": "http://127.0.0.1:8080", 
 
-- NOT: Eğer sunucunuzda 8080 portunu kullanan başka bir node varsa aşağıdakileri uygulayın.
+- NOT: Eğer sunucunuzda 8080 portunu kullanan başka bir node varsa aşağıdakileri uygulayın ve ekranda çıkan portu kullanın.
 
 ```
 cd /var/lib/algorand
