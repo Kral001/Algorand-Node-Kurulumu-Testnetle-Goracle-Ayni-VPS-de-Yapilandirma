@@ -142,9 +142,17 @@ nano ~/.goracle
 
 - Burada yer alan "authHeader": "x-api-key" öğesini kaldırın ve aşağıdaki yerleri aşağıda yazdığı şekilde değiştirin.
 
-"server": "http://127.0.0.1:8080",
+- "server": "http://127.0.0.1:8080", NOT: Eğer sunucunuzda 8080 portunu kullanan başka bir node varsa aşağıdakileri uygulayın.
 
-"token": "1.3.ADIMDA YER ALAN TOKEN KODUNU BURAYA YAPIŞTIRIN",
+```
+cd /var/lib/algorand
+```
+
+```
+cat algod.net
+```
+
+- "token": "1.3.ADIMDA YER ALAN TOKEN KODUNU BURAYA YAPIŞTIRIN",
 
 Bu değişiklikleri yaptıktan sonra Ctrl+x'e, ardından Y'ye ve ardından Enter'a basın.
 
